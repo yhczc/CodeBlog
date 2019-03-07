@@ -1,12 +1,13 @@
 CodeboyBlog
 ---
 
-![](https://img.shields.io/github/stars/CodeBlog/README.md.svg)
-![](https://img.shields.io/github/forks/CodeBlog/README.md.svg)
-![](https://img.shields.io/github/tag/CodeBlog/README.md.svg)
-![](https://img.shields.io/github/release/CodeBlog/README.md.svg)
-![](https://img.shields.io/github/issues/CodeBlog/README.md.svg)
-![](https://img.shields.io/bower/v/README.md.svg)
+![](https://img.shields.io/github/stars/yhczc/CodeBlog.svg?style=social)
+![](https://img.shields.io/github/stars/yhczc/CodeBlog.svg)
+![](https://img.shields.io/github/forks/yhczc/CodeBlog.svg)
+![](https://img.shields.io/github/tag/yhczc/CodeBlog.svg)
+![](https://img.shields.io/github/release/yhczc/CodeBlog.svg)
+![](https://img.shields.io/github/issues/yhczc/CodeBlog.svg)
+![](https://img.shields.io/bower/v/CodeBlog.svg)
 
 **[codeboy.me](https://www.codeboy.me)的网站模板**
 
