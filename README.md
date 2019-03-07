@@ -1,6 +1,13 @@
 CodeboyBlog
 ---
 
+![](https://img.shields.io/github/stars/CodeBlog/README.md.svg)
+![](https://img.shields.io/github/forks/CodeBlog/README.md.svg)
+![](https://img.shields.io/github/tag/CodeBlog/README.md.svg)
+![](https://img.shields.io/github/release/CodeBlog/README.md.svg)
+![](https://img.shields.io/github/issues/CodeBlog/README.md.svg)
+![](https://img.shields.io/bower/v/README.md.svg)
+
 **[codeboy.me](https://www.codeboy.me)的网站模板**
 
 其中搜索模块可以单独安装，地址如下
